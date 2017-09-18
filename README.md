@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 class Button extends React.Component {
   scream() {
-	alert('AAAaAAHHHHHHH!!');
+	alert('AAAaAAHHhHHHHH!!');
   }
 
   render() {
